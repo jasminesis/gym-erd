@@ -1,5 +1,7 @@
 # Do You Even ERD
 
+![https://media.giphy.com/media/3o85xunRezGKPOkcG4/giphy.gif](https://media.giphy.com/media/3o85xunRezGKPOkcG4/giphy.gif)
+
 Now we are going to create a gym.
 
 We want to enable gym members to be recorded when they come to the gym.
